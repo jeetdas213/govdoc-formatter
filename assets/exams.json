@@ -1,0 +1,79 @@
+[
+  {
+    "examName": "SSC CGL / CHSL / MTS - Photo",
+    "width": 3.5,
+    "height": 4.5,
+    "unit": "cm",
+    "minKb": 20,
+    "maxKb": 50,
+    "format": "JPG",
+    "requiresBanner": true,
+    "type": "photo"
+  },
+  {
+    "examName": "SSC CGL / CHSL / MTS - Signature",
+    "width": 4.0,
+    "height": 2.0,
+    "unit": "cm",
+    "minKb": 10,
+    "maxKb": 20,
+    "format": "JPG",
+    "requiresBanner": false,
+    "type": "signature"
+  },
+  {
+    "examName": "UPSC IAS / NDA - Photo",
+    "width": 350,
+    "height": 350,
+    "unit": "px",
+    "minKb": 20,
+    "maxKb": 300,
+    "format": "JPG",
+    "requiresBanner": true,
+    "type": "photo"
+  },
+  {
+    "examName": "UPSC IAS / NDA - Signature",
+    "width": 350,
+    "height": 350,
+    "unit": "px",
+    "minKb": 20,
+    "maxKb": 300,
+    "format": "JPG",
+    "requiresBanner": false,
+    "type": "signature"
+  },
+  {
+    "examName": "IBPS PO / Clerk - Photo",
+    "width": 4.5,
+    "height": 3.5,
+    "unit": "cm",
+    "minKb": 20,
+    "maxKb": 50,
+    "format": "JPG",
+    "requiresBanner": false,
+    "type": "photo"
+  },
+  {
+    "examName": "IBPS PO / Clerk - Signature",
+    "width": 140,
+    "height": 60,
+    "unit": "px",
+    "minKb": 10,
+    "maxKb": 20,
+    "format": "JPG",
+    "requiresBanner": false,
+    "type": "signature"
+  },
+  {
+    "examName": "NTA NEET / JEE - Passport Photo",
+    "width": 2.5,
+    "height": 3.5,
+    "unit": "in",
+    "minKb": 10,
+    "maxKb": 200,
+    "format": "JPG",
+    "requiresBanner": true,
+    "type": "photo"
+  }
+]
